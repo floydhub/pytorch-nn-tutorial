@@ -1,0 +1,5 @@
+env: pytorch-1.0
+input:
+  - destination: mnist
+    source: redeipirati/datasets/pytorch-mnist/2
+machine: cpu
